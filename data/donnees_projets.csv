@@ -1,0 +1,6 @@
+id,name,description,cost_kmad,score_C1,score_C2,score_C3,score_C4,score_C5,global_score,selected
+P1,AutoProd,"Production line automation (robots, conveyors)",850,0.3418,0.0885,0.0772,0.4073,0.0654,0.2744,0
+P2,IoT-Predict,IoT sensors for predictive maintenance,420,0.1516,0.2138,0.1663,0.0877,0.2571,0.1388,1
+P3,DataPerf,Performance analytics dashboard (ERP/MES),280,0.0594,0.4326,0.0417,0.2573,0.5028,0.2029,1
+P4,GreenEnergy,Energy efficiency solutions (solar + heat recovery),560,0.1053,0.1989,0.5485,0.0786,0.1265,0.1969,1
+P5,DigitalTwin,Digital twin of a manufacturing line,690,0.3418,0.0662,0.1663,0.1692,0.0482,0.187,0
