@@ -123,7 +123,8 @@ python -m streamlit run "dashboard.py"
 
 The app will open automatically at `http://localhost:8501`
 
----
+---Or you can also test the streamlit application via this link:
+https://multicriteria-decision-support---industtech-kehnj.streamlit.ap
 
 ## 📚 References
 
